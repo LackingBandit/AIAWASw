@@ -9,7 +9,7 @@
 # # x=v.strip("d")
 # # print(x)
 # # # .split splits the before and after the string and removing the letter and returns an array
-# # print(x.split("s"))
+# # print(x.split("s")) 
 # # print(x.split()[0])
 # # print(x.split()[3:4])
 # # y=x.split()[0]
